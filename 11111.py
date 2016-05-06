@@ -44,17 +44,6 @@ def main():
     
     print 'starting...'
 
-    baseURL """
-My First Internet of Things
-
-Temperature/Humidity Light monitor using Raspberry Pi, DHT11, and photosensor 
-Data is displayed at thingspeak.com
-2015/06/15
-SolderingSunday.com
-
-Based on project by Mahesh Venkitachalam at electronut.in
-
-"""
 # Import all the libraries we need to run
 import sys
 import RPi.GPIO as GPIO
@@ -120,17 +109,7 @@ def main():
             print 'exiting.'
             break
 
-# call main"""
-My First Internet of Things
-
-Temperature/Humidity Light monitor using Raspberry Pi, DHT11, and photosensor 
-Data is displayed at thingspeak.com
-2015/06/15
-SolderingSunday.com
-
-Based on project by Mahesh Venkitachalam at electronut.in
-
-"""
+# call main
 # Import all the libraries we need to run
 import sys
 import RPi.GPIO as GPIO
@@ -176,17 +155,7 @@ def main():
     
     print 'starting...'
 
-    baseURL """
-My First Internet of Things
-
-Temperature/Humidity Light monitor using Raspberry Pi, DHT11, and photosensor 
-Data is displayed at thingspeak.com
-2015/06/15
-SolderingSunday.com
-
-Based on project by Mahesh Venkitachalam at electronut.in
-
-"""
+    baseURL
 # Import all the libraries we need to run
 import sys
 import RPi.GPIO as GPIO
