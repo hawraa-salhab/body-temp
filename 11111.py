@@ -1,4 +1,3 @@
-"""
 # Import all the libraries we need to run
 import sys
 import RPi.GPIO as GPIO
